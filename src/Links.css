@@ -1,0 +1,11 @@
+
+.is-active{
+    color: #6D6A88;
+    cursor: pointer;
+    
+  }
+  
+  .is-active {
+    text-decoration: underline;
+    color: #fff;
+  }

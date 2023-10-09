@@ -1,0 +1,25 @@
+.home{
+
+    height: 100px;
+    text-align: left; 
+    line-height: 100px; 
+    margin: 100px;
+
+    color: #6D6A88;
+    font-family: Judson;
+    font-size: 70px;
+}
+
+img{
+   
+    position: absolute; 
+            top: 60%; 
+            right: 0;
+            transform: translate(0, -60%); 
+            width:40%;
+            margin: 50px;
+        }
+
+*{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), #25054D;
+}

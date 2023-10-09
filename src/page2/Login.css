@@ -1,0 +1,85 @@
+
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 400px;
+    width: 100%;
+    
+  }
+
+  label{
+    color: #6D6A88;
+
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    background: #0E001F;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.25);
+    border-radius: 90px;
+    margin: 10px 0;
+    color: white;
+    border: none;
+    outline: none;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+
+
+
+
+  }
+  
+  .login-button {
+    background-color: #6D6A88;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+
+  
+  .error {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  span {
+    color: #6D6A88;
+    cursor: pointer;
+  }
+  
+  span {
+    text-decoration: underline;
+ 
+  }
+
+
+  h2{
+
+
+    color: #6D6A88;
+    font-family: Judson;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+
+
+
+}
+  
